@@ -9,8 +9,8 @@
 This repository has three core branches:
 
 * [master](https://github.com/carlosas/kubernetes-for-symfony/tree/master): local deployment branch
-* **[aws](https://github.com/carlosas/kubernetes-for-symfony/tree/aws): Amazon Web Services branch *(current)***
-* [gce](https://github.com/carlosas/kubernetes-for-symfony/tree/gce): Google Compute Engine branch
+* [aws](https://github.com/carlosas/kubernetes-for-symfony/tree/aws): Amazon Web Services branch
+* **[gce](https://github.com/carlosas/kubernetes-for-symfony/tree/gce): Google Compute Engine branch *(current)***
 
 ---
 
